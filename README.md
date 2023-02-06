@@ -15,7 +15,8 @@ pip install pyqt5
 Also you have to download language model from https://alphacephei.com/vosk/models, unzip it into folder with this program and change model name variable in program to the name of your language model. You can put it into autostart list to make it start automatically with operating system, also you can turn off password auth.  
 If i forgot something write me.  
   
-Orange Pi One has no microphone so you have to buy USB microphone.    
+Orange Pi One has no microphone so you have to buy USB microphone.   
+I have shown this program in action at the end of my youtube review of Vufine Plus [Russian] - https://www.youtube.com/watch?v=BQCvRfeo1ms  
 
 Эта Пайтон-программа распознает слова по звуку с микрофона в реальном времени и выводит их на экран очков.  
 Устройства с которыми я использовал программу:  
@@ -34,4 +35,4 @@ pip install pyqt5
 Если я что-то забыл, можете написать мне.  
   
 У Orange Pi One нет микрофона, вам надо докупить USB-микрофон.  
-
+Я продемонстировал работу этой программы в своем обзоре на очки Vufine Plus - https://www.youtube.com/watch?v=BQCvRfeo1ms  
